@@ -134,28 +134,28 @@
             },
             {
               "$type": "localizationPersistenceOnScreenEntry",
-              "femaleVariant": "Улучшить до уровня черного рынка",
+              "femaleVariant": "Улучшить до базовой установки",
               "maleVariant": "",
               "primaryKey": "94330",
               "secondaryKey": "UI-Ripperdoc-CyberwareUpgrade-Tier1"
             },
             {
               "$type": "localizationPersistenceOnScreenEntry",
-              "femaleVariant": "Улучшить до уровня черного рынка\u002B",
+              "femaleVariant": "Улучшить до базовой установки\u002B",
               "maleVariant": "",
               "primaryKey": "94331",
               "secondaryKey": "UI-Ripperdoc-CyberwareUpgrade-Tier1plus"
             },
             {
               "$type": "localizationPersistenceOnScreenEntry",
-              "femaleVariant": "Улучшить до уличного качества",
+              "femaleVariant": "Улучшить до откалиброванного",
               "maleVariant": "",
               "primaryKey": "94332",
               "secondaryKey": "UI-Ripperdoc-CyberwareUpgrade-Tier2"
             },
             {
               "$type": "localizationPersistenceOnScreenEntry",
-              "femaleVariant": "Улучшить до уличного качества\u002B",
+              "femaleVariant": "Улучшить до откалиброванного\u002B",
               "maleVariant": "",
               "primaryKey": "94333",
               "secondaryKey": "UI-Ripperdoc-CyberwareUpgrade-Tier2plus"
