@@ -134,77 +134,77 @@
             },
             {
               "$type": "localizationPersistenceOnScreenEntry",
-              "femaleVariant": "Улучшить до уличного качества",
+              "femaleVariant": "Улучшить до уровня черного рынка",
               "maleVariant": "",
               "primaryKey": "94330",
               "secondaryKey": "UI-Ripperdoc-CyberwareUpgrade-Tier1"
             },
             {
               "$type": "localizationPersistenceOnScreenEntry",
-              "femaleVariant": "Улучшить до уличного качества\u002B",
+              "femaleVariant": "Улучшить до уровня черного рынка\u002B",
               "maleVariant": "",
               "primaryKey": "94331",
               "secondaryKey": "UI-Ripperdoc-CyberwareUpgrade-Tier1plus"
             },
             {
               "$type": "localizationPersistenceOnScreenEntry",
-              "femaleVariant": "Улучшить до биологически подогнанного",
+              "femaleVariant": "Улучшить до уличного качества",
               "maleVariant": "",
               "primaryKey": "94332",
               "secondaryKey": "UI-Ripperdoc-CyberwareUpgrade-Tier2"
             },
             {
               "$type": "localizationPersistenceOnScreenEntry",
-              "femaleVariant": "Улучшить до биологически подогнанного\u002B",
+              "femaleVariant": "Улучшить до уличного качества\u002B",
               "maleVariant": "",
               "primaryKey": "94333",
               "secondaryKey": "UI-Ripperdoc-CyberwareUpgrade-Tier2plus"
             },
             {
               "$type": "localizationPersistenceOnScreenEntry",
-              "femaleVariant": "Улучшить до серебряной сертификации Траумы",
+              "femaleVariant": "Улучшить до био-подогнанного",
               "maleVariant": "",
               "primaryKey": "94334",
               "secondaryKey": "UI-Ripperdoc-CyberwareUpgrade-Tier3"
             },
             {
               "$type": "localizationPersistenceOnScreenEntry",
-              "femaleVariant": "Улучшить до серебряной сертификации Траумы\u002B",
+              "femaleVariant": "Улучшить до био-подогнанного\u002B",
               "maleVariant": "",
               "primaryKey": "94335",
               "secondaryKey": "UI-Ripperdoc-CyberwareUpgrade-Tier3plus"
             },
             {
               "$type": "localizationPersistenceOnScreenEntry",
-              "femaleVariant": "Улучшить до золотой сертификации Траумы",
+              "femaleVariant": "Улучшить до нейро-интегрированного",
               "maleVariant": "",
               "primaryKey": "94336",
               "secondaryKey": "UI-Ripperdoc-CyberwareUpgrade-Tier4"
             },
             {
               "$type": "localizationPersistenceOnScreenEntry",
-              "femaleVariant": "Улучшить до золотой сертификации Траумы\u002B",
+              "femaleVariant": "Улучшить до нейро-интегрированного\u002B",
               "maleVariant": "",
               "primaryKey": "94337",
               "secondaryKey": "UI-Ripperdoc-CyberwareUpgrade-Tier4plus"
             },
             {
               "$type": "localizationPersistenceOnScreenEntry",
-              "femaleVariant": "Улучшить до платиновой сертификации Траумы",
+              "femaleVariant": "Улучшить до серебряной сертификации Траумы",
               "maleVariant": "",
               "primaryKey": "94338",
               "secondaryKey": "UI-Ripperdoc-CyberwareUpgrade-Tier5"
             },
             {
               "$type": "localizationPersistenceOnScreenEntry",
-              "femaleVariant": "Улучшить до платиновой сертификации Траумы\u002B",
+              "femaleVariant": "Улучшить до золотой сертификации Траумы",
               "maleVariant": "",
               "primaryKey": "94339",
               "secondaryKey": "UI-Ripperdoc-CyberwareUpgrade-Tier5plus"
             },
             {
               "$type": "localizationPersistenceOnScreenEntry",
-              "femaleVariant": "Улучшить до платиновой сертификации Траумы\u002B\u002B",
+              "femaleVariant": "Улучшить до платиновой сертификации Траумы",
               "maleVariant": "",
               "primaryKey": "94340",
               "secondaryKey": "UI-Ripperdoc-CyberwareUpgrade-Tier5plusplus"
